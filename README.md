@@ -40,5 +40,14 @@ I'm passionate about turning data into insights using Python, SQL, Excel, and vi
 - 🔗 LinkedIn: * www.linkedin.com/in/aditya-patel-mca *  
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-python-ai&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-python-ai&layout=compact&theme=dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aditya-python-ai&theme=dark)
 
 ⭐ Feel free to star my repositories!
