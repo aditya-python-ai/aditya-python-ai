@@ -6,9 +6,26 @@ I'm passionate about turning data into insights using Python, SQL, Excel, and vi
 
 ---
 
-## 🔧 Skills & Tools
-
 ## 🛠️ Tech Stack
+
+### Languages
+🐍 Python | 🗄️ SQL
+
+### Data Analytics
+📊 Pandas | NumPy | Excel
+
+### Visualization
+📈 Matplotlib | Seaborn | Plotly | Power BI
+
+### Databases
+🐬 MySQL | PostgreSQL
+
+### Tools
+🔧 Git | GitHub | VS Code
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode,tensorflow,pytorch" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
